@@ -22,5 +22,5 @@ Using **PyTorch**, this project builds and trains a Convolutional Neural Network
 This project is completely self-contained and designed to run directly in the cloud via Google Colab. 
 
 1. Click the **Open in Colab** badge at the top of this file (forthcoming - download and upload the ipy notebook for now).
-2. Ensure your runtime environment is configured to use a **GPU instance** (e.g., T4, L4) to keep training time close to the advertised 5-minutes.
+2. Ensure your runtime environment is configured to use a **GPU instance** (e.g., T4, L4) to keep the training time close to the advertised 5-minutes.
 3. Execute the cells from top to bottom.
