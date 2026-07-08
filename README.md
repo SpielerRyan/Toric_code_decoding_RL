@@ -1,6 +1,6 @@
 # Optimizing Toric Code Decoding with Deep Reinforcement Learning
 
-[colab link here]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/14UtUW9cDPxcyChPGB0aCUoOlmd1nnkzP)
 
 This repository follows the framework outlined in **arXiv:1811.12338**, utilizing Deep Reinforcement Learning (DRL) to optimize error correction pathways on the Toric Code.
 
